@@ -1,0 +1,97 @@
+
+# Program/certificate level outcomes (Short version)
+
+<p> CompTIA Cybersecurity Essentials
+Scan and assess network for vulnerabilities
+Monitor network traffic for unusual activity
+Investigate a violation when a breach occurs
+Install and use software to protect sensitive information
+Prepare reports that document security breaches
+Research new security technology
+Help end-users when they need to install or learn about new products and procedures
+
+# Course level outcomes (Long version)
+
+https://www.sans.org/cyber-security-skills-roadmap/ 
+https://www.sans.org/media/SANS_Roadmap.pdf 
+
+SANS SEC301: Introduction to Cyber Security
+You Will Be Able To
+Communicate with confidence regarding information security topics, terms, and concepts
+Understand and apply the Principles of Least Privilege
+Understand and apply the Confidentiality, Integrity, and Availability (CIA) for prioritization of critical security resources
+Build better passwords that are more secure while also being easier to remember and type
+Grasp basic cryptographic principles, processes, procedures, and applications
+Understand how a computer works
+Understand computer network basics
+Have a fundamental grasp of any number of technical acronyms: TCP/IP, IP, TCP, UDP, MAC, ARP, NAT, ICMP, and DNS, and the list goes on.
+Utilize built-in Windows tools to see your network settings
+Recognize and be able to discuss various security technologies, including anti-malware, firewalls, intrusion detection systems, sniffers, ethical hacking, active defense, and threat hunting.
+Understand wireless technologies including WiFi, Bluetooth, mobile phones and the Internet of Things (IoT)
+Explain a variety of frequent attacks such as social engineering, drive-by downloads, watering hole attacks, lateral movement, and other attacks
+Understand different types of malware
+Understand browser security and the privacy issues associated with web browsing
+Explain system hardening
+Discuss system patching
+Understand virtual machines and cloud computing
+Understand backups and create a backup plan for your personal life that virtually guarantees you never have to pay ransom to access your data
+SANS SEC401: Security Essentials: Network, Endpoint, and Cloud
+You will learn (applied to on-premise and in the Cloud)
+The core areas of cybersecurity and how to create a security program that is built on a foundation of Detection, Response, and Prevention
+Practical tips and tricks that focus on addressing high-priority security problems within your organization and doing the right things that lead to security solutions that work
+How adversaries adapt tactics and techniques, and importantly how to adapt your defense accordingly
+What ransomware is and how to better defend against it
+How to leverage a defensible network architecture (VLANs, NAC, and 802.1x) based on advanced persistent threat indicators of compromise
+The Identity and Access Management (IAM) methodology, including aspects of strong authentication (Multi-Factor Authentication)
+How to leverage the strengths and differences among the top three cloud providers (Amazon, Microsoft, and Google), including the concepts of multi-cloud
+How to identify visible weaknesses of a system using various tools and, once vulnerabilities are discovered, configure the system to be more secure (realistic and practical application of a capable vulnerability management program)
+How to sniff network communication protocols to determine the content of network communication (including access credentials) using tools such as tcpdump and Wireshark
+How to use Windows, Linux, and macOS command line tools to analyze a system looking for high-risk indicators of compromise, as well as the concepts of basic scripting for the automation of continuous monitoring
+How to build a network visibility map that can be used to validate the attack surface and determine the best methodology to reduce the attack surface through hardening and configuration management
+Why some organizations win and why some lose when it comes to security, and most importantly, how to be on the winning side
+Lab Experience
+Section 1: tcpdump; Wireshark; Aircrack-ng
+Section 2: hashcat; Cain and Abel; Application Control (Whitelisting)
+Section 3: Nmap; Malicious Software; Command Injection; hping3
+Section 4: Image Steganography; GNU Privacy Guard (GPG); Snort; Hashing
+Section 5: Process Hacker; NTFS Permissions Reporter; SECEDIT.EXE; PowerShell Scripting
+SANS SEC 504: Hacker Tools, Techniques, and Incident Handling
+In SEC504, you will learn:
+How to apply a dynamic approach to incident response
+How to identify threats using host, network, and log analysis
+Best practices for effective cloud incident response
+How to leverage PowerShell for data collection and cyber threat analysis
+Cyber investigation processes using live analysis, network insight, and memory forensics
+Defense spotlight strategies to protect critical assets
+How attackers leverage cloud systems against organizations
+Attacker techniques to evade endpoint detection tools
+How attackers exploit complex cloud vulnerabilities
+Attacker steps for internal discovery and lateral movement after an initial compromise
+How attackers exploit publicly-accessible systems including Microsoft 365
+
+How security can be “baked in” with other courses (Integration)
+https://github.com/jassics/cybersecurity-roadmap/blob/master/README.md
+This github repo will cover below items:
+Security concepts one should be aware
+Common Technical skills one should learn
+Web Security skill sets
+Network Security skill sets
+Software Security
+Cloud Security skill sets
+Container Security skill sets
+DevSecOps skill sets
+Security Interview Questions - Another Fantastic Github Repo
+Various Security Job Role and required skill sets
+
+Common Career Paths
+https://www.coursereport.com/blog/cyber-security-career-roadmap-from-junior-to-senior-roles
+
+
+
+
+
+https://www.cyberseek.org/pathway.html
+
+
+
+
